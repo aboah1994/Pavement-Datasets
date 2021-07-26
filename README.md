@@ -1,5 +1,5 @@
 # Pavement-Datasets
-The fully annotated data is opened-sourced. Download full dataset using this link https://drive.google.com/drive/folders/1FquJZgv6OZ5u4QQ1Lheg6DbFyyvAVHlw?usp=sharing
+The fully annotated dataset is freely available. Download full dataset using this link https://drive.google.com/drive/folders/1FquJZgv6OZ5u4QQ1Lheg6DbFyyvAVHlw?usp=sharing
 
 ## Data Source
 The data for this annotation was gotten from a variety of sources including
