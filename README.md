@@ -3,7 +3,7 @@ The fully annotated data is opened-sourced. Download full dataset using this lin
 
 ## Data Source
 The data for this annotation was gotten from a variety of sources including
-Google Street View and KCMO dataset. 
+Google Street View images and KCMO dataset. 
 ## Annotation Technique
 The dataset was annotated using CVAT. The boundaries of various distresses 
 were outline using polygons. 
